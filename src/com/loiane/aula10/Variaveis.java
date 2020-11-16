@@ -9,6 +9,6 @@ public class Variaveis {
         String nomeDoMeuCachorro;
 
         idade = 25;
-        
+
     }
 }
